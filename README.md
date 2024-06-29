@@ -1,1 +1,1 @@
-docs: add link to project
+https://maxon-86.github.io/rsschool-cv/cv
